@@ -720,9 +720,13 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+*.txt
 
-car/
-patient/
+*images/
+
+OOP_Projects/car/
+OOP_Projects/patient/
+ROSALIND/Rosalind/datasets
 
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
